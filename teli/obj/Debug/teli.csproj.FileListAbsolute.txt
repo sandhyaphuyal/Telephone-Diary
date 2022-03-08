@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\teli\teli\bin\Debug\teli.exe.config
+C:\Users\DELL\source\repos\teli\teli\bin\Debug\teli.exe
+C:\Users\DELL\source\repos\teli\teli\bin\Debug\teli.pdb
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.Form1.resources
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.Properties.Resources.resources
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.exe
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.pdb
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.Form2.resources
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.Form3.resources
+C:\Users\DELL\source\repos\teli\teli\obj\Debug\teli.Form4.resources
